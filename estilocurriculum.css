@@ -1,0 +1,56 @@
+html{
+	background: url(imagenes/pastel.jpg);
+	background-size: 1600px 1200px
+}
+p{
+	font: bold 25px Arial;
+	color:black;
+	background: white;
+	font-size: 15px;
+	line-height: 1.5;
+	background: white;
+	text-align: justify;
+
+}
+
+img{
+	width: :250px;
+	height:250px;
+	margin: auto;
+	display: block;
+	border-radius: 5px;
+	box-shadow: 15px 15px 15px 	#a9a9a9 ;
+	padding: 15px;
+	border: 1px solid 	#ffe4c4;
+	float: right;
+	margin: 10px;
+
+}
+a{
+	background: peachpuff;
+}
+a{
+	display: block;
+	text-decoration: none;
+	line-height: 50px;
+	position: relative;
+	width: 300px;
+	height: 65px;
+	border-radius: 4px;
+	text-transform: uppercase;
+	background-color: darkgrey;
+	color: black;
+	font-size: 18px;
+	border: 1px solid rosybrown;
+	margin-bottom: 20px;
+	font-weight: 800;
+	transition: background 1s, color 1s;
+	cursor: pointer;
+	font-family: "mosterrat"
+	padding: 10px 20px;
+}
+a:hover{
+	background: grey;
+	color:gainsboro;
+
+}

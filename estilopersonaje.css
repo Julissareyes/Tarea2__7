@@ -1,0 +1,65 @@
+html{
+	background: url(imagenes/fondorosa.jpg);
+	background-size: 1700px 1000px
+}
+
+h1{
+	font: bold 50px Constantia;
+	color:black;
+}
+
+p{
+	font: bold 20px Arial;
+	color:black;
+	background: white;
+	padding: 5px;
+	font-size: 15px;
+	line-height: 1.5;
+	background: white;
+	text-align: justify;
+}
+
+img{
+	width: :300px;
+	height:300px;
+	margin: auto;
+	display: block;
+	border-radius: 7px;
+	box-shadow: 15px 15px 15px 	#ffc0cb ;
+	padding: 20px;
+	border: 1px solid 	#ffc0cb;
+	float: right;
+	margin: 15px;
+}
+
+
+a{
+	display: block;
+	text-decoration: none;
+	line-height: 50px;
+	position: relative;
+	width: 300px;
+	height: 65px;
+	border-radius: 4px;
+	text-transform: uppercase;
+	background-color: pink;
+	color: black;
+	font-size: 18px;
+	border: 1px solid rosybrown;
+	margin-bottom: 20px;
+	font-weight: 800;
+	transition:background 1s, color 1s;
+	cursor: pointer;
+	font-family: "mosterrat"
+	padding: 10px 20px;
+
+}
+a:hover{
+	background: palevioletred;
+	color:peachpuff;
+
+}
+
+
+
+
